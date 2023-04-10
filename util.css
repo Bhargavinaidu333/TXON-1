@@ -1,0 +1,43 @@
+.flex-all-center{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.btn{
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 2px;
+    font-family: 'Lato';
+}
+.product-text h4 {
+    font-family: 'Lato';
+    text-align: start;
+    margin: 0px 0px 0px 44px;
+}
+.product-text h6{
+    margin: 0px 0px 0px 45px;
+    font-weight: normal;
+
+}
+.product-text h5{
+    display:inline;
+    font-weight: normal;
+    margin: 0 -31px 0 33px;
+
+}
+.he{
+    font-size: small;
+     color: red;
+     text-decoration: line-through;
+}
+.product-text{
+        margin: 22px -109px -67px -153px;
+        color: darkslategray;
+}
+.row1 .product-text{
+    margin: 21px -6px 0 39px;
+}
+ h3 i{
+    align-items: center;
+    color: chocolate;
+}
